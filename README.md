@@ -1,0 +1,4 @@
+KanColle
+========
+
+KanColle Resources
