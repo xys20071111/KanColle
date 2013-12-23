@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <filePath>E:\workspace\source\舰娘项目问档\KanColle\KanColle.xml.ui</filePath>
+  <filePath>C:\work\kancolle\work\KanColle\KanColle.xml.ui</filePath>
   <Version>1.1.0.0</Version>
   <Name>KanColle</Name>
-  <ProjectDir>E:\workspace\source\舰娘项目问档\KanColle</ProjectDir>
+  <ProjectDir>C:\work\kancolle\work\KanColle</ProjectDir>
   <JsonFileName>KanColle.json</JsonFileName>
-  <Resources>E:\workspace\source\舰娘项目问档\KanColle\Resources</Resources>
-  <JsonFolder>E:\workspace\source\舰娘项目问档\KanColle\Json</JsonFolder>
+  <Resources>C:\work\kancolle\work\KanColle\Resources</Resources>
+  <JsonFolder>C:\work\kancolle\work\KanColle\Json</JsonFolder>
   <JsonList>
     <string>Fleet.json</string>
-    <string>Fleet_0.json</string>
     <string>LeftBar.json</string>
     <string>LoginScene.json</string>
     <string>MainScene.json</string>
@@ -20,7 +19,7 @@
     <string>KanColle0.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>Supply.json</CurrentUIJson>
+  <CurrentUIJson>TopBar.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>
