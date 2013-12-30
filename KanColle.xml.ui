@@ -14,12 +14,13 @@
     <string>MainScene.json</string>
     <string>Supply.json</string>
     <string>TopBar.json</string>
+    <string>Furniture.json</string>
   </JsonList>
   <imageFileList>
     <string>KanColle0.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>TopBar.json</CurrentUIJson>
+  <CurrentUIJson>Fleet.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>
