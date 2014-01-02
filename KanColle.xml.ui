@@ -20,7 +20,7 @@
     <string>KanColle0.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>Fleet.json</CurrentUIJson>
+  <CurrentUIJson>MainScene.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>
