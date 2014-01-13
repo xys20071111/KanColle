@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD
   <filePath>D:\舰娘项目问档\KanColle\KanColle\KanColle.xml.ui</filePath>
   <Version>1.1.0.0</Version>
   <Name>KanColle</Name>
@@ -7,9 +8,17 @@
   <JsonFileName>KanColle.json</JsonFileName>
   <Resources>D:\舰娘项目问档\KanColle\KanColle\Resources</Resources>
   <JsonFolder>D:\舰娘项目问档\KanColle\KanColle\Json</JsonFolder>
+=======
+  <filePath>C:\work\kancolle\work\KanColle\KanColle.xml.ui</filePath>
+  <Version>1.1.0.0</Version>
+  <Name>KanColle</Name>
+  <ProjectDir>C:\work\kancolle\work\KanColle</ProjectDir>
+  <JsonFileName>KanColle.json</JsonFileName>
+  <Resources>C:\work\kancolle\work\KanColle\Resources</Resources>
+  <JsonFolder>C:\work\kancolle\work\KanColle\Json</JsonFolder>
+>>>>>>> d2cadc16d4b77fdad61b13f0d4559b6c2aca3bf6
   <JsonList>
     <string>Fleet.json</string>
-    <string>Fleet_0.json</string>
     <string>LeftBar.json</string>
     <string>LoginScene.json</string>
     <string>MainScene.json</string>
@@ -21,7 +30,11 @@
     <string>KanColle0.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
+<<<<<<< HEAD
   <CurrentUIJson>Refit.json</CurrentUIJson>
+=======
+  <CurrentUIJson>TopBar.json</CurrentUIJson>
+>>>>>>> d2cadc16d4b77fdad61b13f0d4559b6c2aca3bf6
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>
